@@ -1,6 +1,6 @@
 {
-  "name": "Meals",
-  "short_name": "Meals",
+  "name": "connect",
+  "short_name": "connect",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
